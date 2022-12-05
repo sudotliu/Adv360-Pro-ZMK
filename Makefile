@@ -4,6 +4,7 @@ TIMESTAMP := $(shell date -u +"%Y%m%d%H%M%S")
 .PHONY: all clean
 
 all:
+	git pull
 	$(DOCKER) build --tag zmk --file Dockerfile .
 	$(DOCKER) run --rm -it --name zmk \
 		-v $(PWD)/firmware:/app/firmware:z \
