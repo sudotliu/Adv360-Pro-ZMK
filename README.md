@@ -1,5 +1,19 @@
 # ADV360-PRO-ZMK
 
+## TL;DR
+
+1. Run `make`
+2. Connect cable to left module
+3. Press Mod + Hotkey 1 to attach left module in bootloader mode
+4. Drag 'left' file onto left module
+5. Wait until loaded and self-ejected
+6. Repeat for right module (Mod + Hotkey 3)
+
+Keys Order:
+_    Mod
+1    3
+2    4
+
 ## To build Firmware in GitHub Actions
 
 ### Setup
