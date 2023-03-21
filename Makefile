@@ -14,4 +14,4 @@ all: clean
 
 clean:
 	rm -f firmware/*.uf2
-	$(DOCKER) image rm zmk docker.io/zmkfirmware/zmk-build-arm:stable
+	$(DOCKER) image rm zmk docker.io/zmkfirmware/zmk-build-arm:stable 2> /dev/null || true
