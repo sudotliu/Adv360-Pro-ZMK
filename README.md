@@ -44,11 +44,11 @@ The built docker container and compiled firmware files can be deleted with `make
 ## Flashing firmware
 
 [Quick Guide](https://kinesis-ergo.com/wp-content/uploads/Step-by-Step-Advantage360-Professional-Firmware-Installation-Instructions-KB360-PRO_v9-16-22.pdf)
+[Full Manual](https://kinesis-ergo.com/wp-content/uploads/Advantage360-ZMK-KB360-PRO-Users-Manual-v12-1-22.pdf)
 
 ## Other support
 
 Further support resources can be found on Kinesis.com
-https://kinesis-ergo.com/support/kb360pro/#firmware-updates
-https://kinesis-ergo.com/support/kb360pro/#manuals
+- https://kinesis-ergo.com/support/kb360pro/#firmware-updates
+- https://kinesis-ergo.com/support/kb360pro/#manuals
 
-[Full Manual](https://kinesis-ergo.com/wp-content/uploads/Advantage360-ZMK-KB360-PRO-Users-Manual-v12-1-22.pdf)
