@@ -1,13 +1,12 @@
 # ADV360-PRO-ZMK
 
+### Reminder of center key layout:
 ```
-Reminder of center key layout:
 X    Mod
 1    3
 2    4
 ```
-
-e.g. Bootloader left = Mod + Hotkey 1 = Hold press Mod + mid left center key
+e.g. Bootloader left = Mod + Hotkey 1 = Hold press Mod + mid left center key\
 e.g. Bootlader right = Mod + Hotkey 3
 
 ## How to update after config changes 
