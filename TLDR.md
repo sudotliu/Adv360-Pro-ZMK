@@ -7,7 +7,7 @@ X    Mod
 2    4
 ```
 e.g. Bootloader left = Mod + Hotkey 1 = Hold press Mod + mid left center key\
-e.g. Bootlader right = Mod + Hotkey 3
+e.g. Bootlader right = Mod + Hotkey 3 (or dubclick paperclip the bootloader button)
 
 ## How to update after config changes 
 
